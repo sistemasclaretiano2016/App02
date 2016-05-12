@@ -1,7 +1,6 @@
 # App02
-Projeto desenvolvido na aula de Android da Claretiano no primeiro trimestre de 2016 para exemplo de Spinner
 
-Aplicativo iniciado na aula em 10/03/2016
+Projeto desenvolvido na aula de Android da Claretiano no primeiro trimestre de 2016 para exemplo de Spinner
 
 # Git com Android Studio
 
